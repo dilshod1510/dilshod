@@ -24,7 +24,7 @@
 	        <p>Lorem ipsum dolor sit amet.</p></div>
 	        <div class="col-sm-6"><h3><img src="images/ipad.jpg" height="100px" width="100px"></h3>
 	        <p>Lorem ipsum dolor sit amet.</p></div>
-	        
+	      </div>  
 </div>
 
 
